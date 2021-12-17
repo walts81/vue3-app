@@ -1,0 +1,9 @@
+{
+  "@walts81/generator-vuex-ts": {
+    "modules": [
+      "app"
+    ],
+    "baseDir": "src/store",
+    "vuexVersion": "4"
+  }
+}
